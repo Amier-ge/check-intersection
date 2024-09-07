@@ -1,0 +1,9 @@
+﻿  two_array_intersection.c
+c:\users\home\documents\visual studio 2010\projects\two_array_intersection\two_array_intersection\two_array_intersection.c(28): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\visual studio 2010\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+c:\users\home\documents\visual studio 2010\projects\two_array_intersection\two_array_intersection\two_array_intersection.c(34): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\visual studio 2010\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+c:\users\home\documents\visual studio 2010\projects\two_array_intersection\two_array_intersection\two_array_intersection.c(41): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\visual studio 2010\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+c:\users\home\documents\visual studio 2010\projects\two_array_intersection\two_array_intersection\two_array_intersection.c(25): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  two_array_intersection.vcxproj -> c:\users\home\documents\visual studio 2010\Projects\two_array_intersection\Debug\two_array_intersection.exe
